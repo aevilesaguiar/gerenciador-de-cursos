@@ -1,4 +1,4 @@
-# Gerenciador de Cursos
+# Gerenciador de Cursos - Curso Alura
 
 - Trabalhando com ArrayList Ver primeiro
 - Listas de objetos
